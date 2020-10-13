@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ReactTable
+- 🔭 I’m currently working on funbox
 
 - 🌱 I’m currently learning React Hooks
 
