@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on New Project
+- 🔭 I’m currently working on New Project( upload soon)
 
 - 🌱 I’m currently learning React Hooks
 
